@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kontrolki", "kontrolki\kontrolki.csproj", "{8FD4C2E1-921C-4CF7-9C50-9F1C11228B1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlTest", "ControlTest\ControlTest.csproj", "{A3A5B001-C834-4622-9CFA-C8BB2BE71CDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FD4C2E1-921C-4CF7-9C50-9F1C11228B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD4C2E1-921C-4CF7-9C50-9F1C11228B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD4C2E1-921C-4CF7-9C50-9F1C11228B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD4C2E1-921C-4CF7-9C50-9F1C11228B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A5B001-C834-4622-9CFA-C8BB2BE71CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A5B001-C834-4622-9CFA-C8BB2BE71CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A5B001-C834-4622-9CFA-C8BB2BE71CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A5B001-C834-4622-9CFA-C8BB2BE71CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E3D8513-8C5D-4592-9420-BB761B36EFF1}
+	EndGlobalSection
+EndGlobal
